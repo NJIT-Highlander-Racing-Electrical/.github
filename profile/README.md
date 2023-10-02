@@ -10,7 +10,7 @@ This organization contains individual repositories for each subsystem on the car
 * Gas/Brake/Steering Angle Sensors
 * Fuel Level Sensor
 * Dedicated Data Acquisition Logger
-* GPS Data
+* GPS
 * 2WD/4WD Engagement Switch
 * Power Research
 
