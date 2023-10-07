@@ -31,9 +31,7 @@ https://docs.google.com/spreadsheets/d/1Qi0S1_aLF-bAy1xNMarseqDGTy3XCX9PLI8lnr3L
 * Universal power and data connections/cables throughout the vehicle
 * Strong design process documentation (photos, schematics, research, etc)
 
-## Design Timeline
-
-Electrical Design Timeline:
+## Electrical Design Timeline
 
 ### October
 * Finish research
