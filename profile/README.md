@@ -31,6 +31,48 @@ https://docs.google.com/spreadsheets/d/1Qi0S1_aLF-bAy1xNMarseqDGTy3XCX9PLI8lnr3L
 * Universal power and data connections/cables throughout the vehicle
 * Strong design process documentation (photos, schematics, research, etc)
 
+## Design Timeline
+
+Electrical Design Timeline:
+
+### October
+* Finish research
+* Create a Bill of Materials (BOM)
+* Meet with me about your proposed design
+* Order Parts!
+
+### November
+* Work on breadboard prototyping and programming
+
+### December
+* Finalize breadboard design and have a close-to-finished program
+* Create schematics for custom PCBs (if necessary)
+* Make sure you account for CAN-Bus and 12V-5V power conversion!
+* Order PCBs (if necessary)
+
+### January
+* Solder all components for permanent design (on PCB if necessary)
+* Test circuit and program to ensure everything works
+* Begin designing enclosures for your specific components
+* Accessible enclosures with cable holes and assembled with screws
+* Compact and durable
+
+### February
+* Final design and program improvements
+* Begin testing subsystems together (dashboard, DAQ logger, CAN-Bus, power systems, etc) 
+* Post summary of information to GitHub (if not done already)
+* Schematics, code files, photos of device, data, research, etc
+* Assemble systems on car (if the car is done)
+
+### March
+* Assemble systems on car and drive the car to test!
+
+### April-May
+* Competition! 🎉🎉
+* April 25-28, 2024
+* May 16-19, 2024
+
+
 ## CAN-Bus Message ID Hierarchy
 
 With CAN-Bus, data is constantly being sent to and from all devices in the loop. While not every device is set to receive every message, it is important that there is a hierarchy to the messages. This way, more crucial data is sent first. Our Message ID hierarchy can be found in this repository.
