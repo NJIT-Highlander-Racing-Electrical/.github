@@ -9,7 +9,7 @@ This organization contains individual repositories for each subsystem on the car
 * Driver's Seat Pressure Sensors (Matt)
 * Gas/Brake/Steering Angle Sensors (Shawn and Erik L)
 * Fuel Level Sensor (Snehil)
-* Dedicated Data Acquisition Logger
+* Dedicated Data Acquisition Logger 
 * GPS (Alex)
 * 2WD/4WD Engagement Switch (Nate)
 * Power Research (Channy)
