@@ -11,7 +11,7 @@ This organization contains individual repositories for each subsystem on the car
 * Fuel Level Sensor (Snehil)
 * Dedicated Data Acquisition Logger
 * GPS (Alex)
-* 2WD/4WD Engagement Switch
+* 2WD/4WD Engagement Switch (Nate)
 * Power Research (Channy)
 
 ## Important Links
