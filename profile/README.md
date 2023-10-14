@@ -8,7 +8,7 @@ This organization contains individual repositories for each subsystem on the car
 * CVT Tachometer/Temperature Sensor (Eric M)
 * Driver's Seat Pressure Sensors (Matt)
 * Gas/Brake/Steering Angle Sensors (Shawn and Erik L)
-* Fuel Level Sensor (Snehil)
+* Fuel Level Sensor (Snehil, Nate)
 * Dedicated Data Acquisition Logger 
 * GPS (Alex)
 * 2WD/4WD Engagement Switch (Nate)
