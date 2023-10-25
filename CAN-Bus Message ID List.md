@@ -61,8 +61,8 @@
 *	58	,	0x3A	,	Fuel Level Sensor	,	
 *	59	,	0x3B	,	Fuel Level Sensor	,	
 *	60	,	0x3C	,	Fuel Level Sensor	,	
-*	61	,	0x3D	,	2WD/4WD Engagement	,	Engagement State (boolean)
-*	62	,	0x3E	,	Low Power Warning (BMS)	,	Low Power State (boolean)
+*	61	,	0x3D	,	Low Power Warning (BMS)	,	Low Power State (boolean)
+*	62	,	0x3E	,	Unused	,
 *	63	,	0x3F	,	Unused	,	
 *	64	,	0x40	,	Unused	,	
 *	65	,	0x41	,	Unused	,	
@@ -82,7 +82,7 @@
 *	79	,	0x4F	,	GPS	,	
 *	80	,	0x50	,	GPS	,	
 *	81	,	0x51	,	Data Acquisition System	,	Data Acquisition Enabled (boolean)
-*	82	,	0x52	,	Data Acquisition System	,	
+*	82	,	0x52	,	Data Acquisition System	,	2WD/4WD Engagement State
 *	83	,	0x53	,	Data Acquisition System	,	
 *	84	,	0x54	,	Data Acquisition System	,	
 *	85	,	0x55	,	Data Acquisition System	,	
