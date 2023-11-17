@@ -19,7 +19,7 @@ This organization contains individual repositories for each subsystem on the car
 https://www.bajasae.net/cdsweb/gen/DownloadDocument.aspx?DocumentID=024d6763-9fb8-45c5-b87c-08351214cede
 
 Eletrical Inventory Spreadsheet
-https://docs.google.com/spreadsheets/d/1Qi0S1_aLF-bAy1xNMarseqDGTy3XCX9PLI8lnr3L_F0/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/19zXsWbHnRgKuqglurabbrF1yi5oSlVw6kvXuMUWI1O0/edit?usp=sharing
 
 ## 2023 Design Goals 
 * Custom PCBs for subsystems where applicable
