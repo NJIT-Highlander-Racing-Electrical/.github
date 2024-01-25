@@ -4,10 +4,10 @@ A GitHub Organization for NJIT's Highlander Racing Electrical Subteam
 
 This organization contains individual repositories for each subsystem on the car, including:
 * Dashboard (Andrew)
-* Semi-Active Suspension (Shawn and Erik L)
+* Semi-Active Suspension (CANCELED)
 * CVT Tachometer/Temperature Sensor (Eric M)
 * Driver's Seat Pressure Sensors (Matt)
-* Gas/Brake/Steering Angle Sensors (Shawn and Erik L)
+* Gas/Brake/Steering Angle Sensors (Erik L)
 * Fuel Level Sensor (Andrew)
 * Dedicated Data Acquisition Logger with GPS (Alex)
 * 2WD/4WD Engagement Switch (Nate)
