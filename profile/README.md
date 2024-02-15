@@ -64,11 +64,16 @@ https://docs.google.com/spreadsheets/d/19zXsWbHnRgKuqglurabbrF1yi5oSlVw6kvXuMUWI
 ### March
 * Assemble systems on car and drive the car to test!
 
-### April-May
+### April
 * Competition! 🎉🎉
 * April 25-28, 2024
-* May 16-19, 2024
 
+### April-May
+* Season Wrap-up
+* Make sure all documentation is posted to the GitHub
+* Mentioned what worked well, what didn't, and what we can improve on for next year
+* Take inventory of all Electrical parts in SAE room again
+  
 
 ## CAN-Bus Message ID Hierarchy
 
