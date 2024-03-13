@@ -15,10 +15,10 @@ This organization contains individual repositories for each subsystem on the car
 
 ## Important Links
 
-2024 Baja SAE Rules (Rev A, 8/31/23)
+2024 Baja SAE Rules (Rev A, 8/31/23):
 https://www.bajasae.net/cdsweb/gen/DownloadDocument.aspx?DocumentID=024d6763-9fb8-45c5-b87c-08351214cede
 
-Eletrical Inventory Spreadsheet
+Eletrical Inventory:
 https://docs.google.com/spreadsheets/d/19zXsWbHnRgKuqglurabbrF1yi5oSlVw6kvXuMUWI1O0/edit?usp=sharing
 
 Electrical Purchase List: 
