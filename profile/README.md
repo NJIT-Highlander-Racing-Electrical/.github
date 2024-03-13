@@ -21,6 +21,9 @@ https://www.bajasae.net/cdsweb/gen/DownloadDocument.aspx?DocumentID=024d6763-9fb
 Eletrical Inventory Spreadsheet
 https://docs.google.com/spreadsheets/d/19zXsWbHnRgKuqglurabbrF1yi5oSlVw6kvXuMUWI1O0/edit?usp=sharing
 
+Electrical Purchase List: 
+https://docs.google.com/spreadsheets/d/18E18Z8eGh2aedHmGQmZOifpqckm16rXo4czgnBeM4RM/edit#gid=0
+
 ## 2023 Design Goals 
 * Custom PCBs for subsystems where applicable
 * Custom durable and compact 3D printed enclosures for subsystems
