@@ -1,6 +1,6 @@
 # NJIT-Highlander-Racing-Electrical 
 
-A GitHub Organization for NJIT's Highlander Racing Electrical Subteam
+## A GitHub Organization for NJIT's Highlander Racing Electrical Subteam
 
 This organization contains individual repositories for each subsystem on the car, including:
 * Dashboard (Andrew)
