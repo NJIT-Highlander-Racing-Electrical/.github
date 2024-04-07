@@ -82,3 +82,25 @@ https://docs.google.com/spreadsheets/d/18E18Z8eGh2aedHmGQmZOifpqckm16rXo4czgnBeM
 
 With CAN-Bus, data is constantly being sent to and from all devices in the loop. While not every device is set to receive every message, it is important that there is a hierarchy to the messages. This way, more crucial data is sent first. Our Message ID hierarchy can be found in this repository.
 
+# 2024-2025 Plans
+
+## Future Goals
+
+### Wireless Communication of Vehicle Data
+* Transmit vehicle data wirelessly in real time to a dashboard/control station on a PC
+* Use some kind of long-range radio transmission
+
+### Common CAN-Bus Library
+* Provides all variables and functions to read/write data to CAN-Bus
+** Simplifies each individual subsystem's CAN-Bus implementation
+** Far easier to update CAN-Bus functions system-wide (just download most up-to-date library)  
+** Enables every subsystem to have access to all data variables
+  
+### Purchases to Make
+* Better breadboards
+* Essential SAE devices (engine kill switches, brake lights, brake pressure sensors, transponders, etc)
+* SMD stuff?
+* Heat Shrink
+
+### Miscellaneous
+* Fabricate more kill switch mounting plates
