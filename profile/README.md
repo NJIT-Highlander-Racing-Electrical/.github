@@ -92,9 +92,9 @@ With CAN-Bus, data is constantly being sent to and from all devices in the loop.
 
 ### Common CAN-Bus Library
 * Provides all variables and functions to read/write data to CAN-Bus
-** Simplifies each individual subsystem's CAN-Bus implementation
-** Far easier to update CAN-Bus functions system-wide (just download most up-to-date library)  
-** Enables every subsystem to have access to all data variables
+   ** Simplifies each individual subsystem's CAN-Bus implementation
+    ** Far easier to update CAN-Bus functions system-wide (just download most up-to-date library)  
+   ** Enables every subsystem to have access to all data variables
   
 ### Purchases to Make
 * Better breadboards
