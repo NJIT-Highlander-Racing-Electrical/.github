@@ -33,7 +33,7 @@
 *	30	,	0x1E	,	Semi-Active Suspension	,	
 *	31	,	0x1F	,	CVT Tachometer/Temperature	,	CVT Primary RPM
 *	32	,	0x20	,	CVT Tachometer/Temperature	,	CVT Secondary RPM
-*	33	,	0x21	,	CVT Tachometer/Temperature	,	CVT Temperature too high (boolean)
+*	33	,	0x21	,	CVT Tachometer/Temperature	,	CVT Temperature (int)
 *	34	,	0x22	,	CVT Tachometer/Temperature	,	
 *	35	,	0x23	,	CVT Tachometer/Temperature	,	
 *	36	,	0x24	,	CVT Tachometer/Temperature	,	
