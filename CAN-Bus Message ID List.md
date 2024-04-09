@@ -73,12 +73,12 @@
 *	70	,	0x46	,	Unused	,	
 *	71	,	0x47	,	GPS	,	Latitude
 *	72	,	0x48	,	GPS	,	Longitude
-*	73	,	0x49	,	GPS	,	Time
-*	74	,	0x4A	,	GPS	,	Date
-*	75	,	0x4B	,	GPS	,	
-*	76	,	0x4C	,	GPS	,	
-*	77	,	0x4D	,	GPS	,	
-*	78	,	0x4E	,	GPS	,	
+*	73	,	0x49	,	GPS	,	Time (hour)
+*	74	,	0x4A	,	GPS	,	Time (minute)
+*	75	,	0x4B	,	GPS	,	Time (second)
+*	76	,	0x4C	,	GPS	,	Date (month)
+*	77	,	0x4D	,	GPS	,	Date (day)
+*	78	,	0x4E	,	GPS	,	Date (year)
 *	79	,	0x4F	,	GPS	,	
 *	80	,	0x50	,	GPS	,	
 *	81	,	0x51	,	Data Acquisition System	,	Data Acquisition Enabled (boolean)
