@@ -106,6 +106,7 @@ With CAN-Bus, data is constantly being sent to and from all devices in the loop.
 * Essential SAE devices (engine kill switches, brake lights, brake pressure sensors, transponders, etc)
 * SMD stuff?
 * Heat Shrink
+* Basic arduino and soldering kits for onboarding
 
 ### Miscellaneous
 * Fabricate more kill switch mounting plates
