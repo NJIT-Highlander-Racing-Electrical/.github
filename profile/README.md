@@ -95,6 +95,11 @@ With CAN-Bus, data is constantly being sent to and from all devices in the loop.
 * Simplifies each individual subsystem's CAN-Bus implementation
 * Far easier to update CAN-Bus functions system-wide (just download most up-to-date library)  
 * Enables every subsystem to have access to all data variables
+
+### Improved Waterproofing
+* Waterproof connectors
+* Grommets for all wiring to sensors
+* O-rings or other seals for enclosoures
   
 ### Purchases to Make
 * Better breadboards
