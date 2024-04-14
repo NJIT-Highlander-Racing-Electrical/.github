@@ -83,8 +83,8 @@
 *	80	,	0x50	,	GPS	,	
 *	81	,	0x51	,	Data Acquisition System	,	Data Acquisition Enabled (boolean)
 *	82	,	0x52	,	Data Acquisition System	,	2WD/4WD Engagement State
-*	83	,	0x53	,	Data Acquisition System	,	
-*	84	,	0x54	,	Data Acquisition System	,	
+*	83	,	0x53	,	Data Acquisition System	,	Data Acquisition Error (boolean) [for if SD card isn't working or related issue]
+*	84	,	0x54	,	Data Acquisition System	,	2WD/4WD Engagement Unknown (boolean)
 *	85	,	0x55	,	Data Acquisition System	,	
 *	86	,	0x56	,	Data Acquisition System	,	
 *	87	,	0x57	,	Data Acquisition System	,	
