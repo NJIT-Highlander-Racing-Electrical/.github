@@ -24,6 +24,12 @@ https://docs.google.com/spreadsheets/d/19zXsWbHnRgKuqglurabbrF1yi5oSlVw6kvXuMUWI
 Electrical Purchase List: 
 https://docs.google.com/spreadsheets/d/18E18Z8eGh2aedHmGQmZOifpqckm16rXo4czgnBeM4RM/edit#gid=0
 
+## CAN-Bus Wiring:
+* +12V on Pin 1
+* GND on Pin 2
+* CAN-H on Pin 3 using WHITE wire
+* CAN-L on Pin 4 using BLACK wire
+
 ## 2023 Design Goals 
 * Custom PCBs for subsystems where applicable
 * Custom durable and compact 3D printed enclosures for subsystems
