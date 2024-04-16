@@ -113,6 +113,7 @@ With CAN-Bus, data is constantly being sent to and from all devices in the loop.
 * SMD stuff?
 * Heat Shrink
 * Basic arduino and soldering kits for onboarding
+* SD Cards and reader adapters
 
 ### Miscellaneous
 * Fabricate more kill switch mounting plates
