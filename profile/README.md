@@ -4,14 +4,13 @@
 
 This organization contains individual repositories for each subsystem on the car, including:
 * Dashboard
-* Semi-Active Suspension (CANCELED)
 * CVT Tachometer/Temperature Sensor
 * Driver's Seat Pressure Sensors
-* Gas/Brake/Steering Angle Sensors
+* Gas/Brake Angle Sensors
 * Fuel Level Sensor
 * Dedicated Data Acquisition Logger with GPS
 * 2WD/4WD Engagement Switch
-* Power Research
+* Power
 
 ## Important Links
 
@@ -30,7 +29,7 @@ https://docs.google.com/spreadsheets/d/18E18Z8eGh2aedHmGQmZOifpqckm16rXo4czgnBeM
 * CAN-H on Pin 3 using WHITE wire
 * CAN-L on Pin 4 using BLACK wire
 
-## 2023 Design Goals 
+## 2023-2024 Design Goals 
 * Custom PCBs for subsystems where applicable
 * Custom durable and compact 3D printed enclosures for subsystems
 * All data outputs from subsystems are shared with each other via CAN-Bus
@@ -76,6 +75,7 @@ https://docs.google.com/spreadsheets/d/18E18Z8eGh2aedHmGQmZOifpqckm16rXo4czgnBeM
 ### April
 * Competition! 🎉🎉
 * April 25-28, 2024
+* May 16-19, 2024
 
 ### April-May
 * Season Wrap-up
