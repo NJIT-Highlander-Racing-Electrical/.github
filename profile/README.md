@@ -23,11 +23,19 @@ https://docs.google.com/spreadsheets/d/19zXsWbHnRgKuqglurabbrF1yi5oSlVw6kvXuMUWI
 Electrical Purchase List: 
 https://docs.google.com/spreadsheets/d/18E18Z8eGh2aedHmGQmZOifpqckm16rXo4czgnBeM4RM/edit#gid=0
 
-## CAN-Bus Wiring:
+## CAN-Bus Information:
 * +12V on Pin 1
 * GND on Pin 2
 * CAN-H on Pin 3 using WHITE wire
 * CAN-L on Pin 4 using BLACK wire
+
+* Note: Newer microcontrollers do not play nicely with CAN/TWAI, so any ESP32's with four mounting holes needs the CAN frequency doubled
+  * From this: https://www.eevblog.com/forum/microcontrollers/psa-esp32-can-frequency-assignment-broken-in-chip-revision/
+ 
+* We use the sandeepmistry arduino-CAN library: https://github.com/sandeepmistry/arduino-CAN
+
+* Our ESP32's can run CAN-Bus reading on Core 0 if necessary (utilizing tasks for dual-core functionality)
+  * https://randomnerdtutorials.com/esp32-dual-core-arduino-ide/
 
 ## 2023-2024 Design Goals 
 * Custom PCBs for subsystems where applicable
