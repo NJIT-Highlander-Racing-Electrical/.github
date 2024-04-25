@@ -121,6 +121,7 @@ https://docs.google.com/spreadsheets/d/18E18Z8eGh2aedHmGQmZOifpqckm16rXo4czgnBeM
 * Heat Shrink
 * Basic arduino and soldering kits for onboarding
 * SD Cards and reader adapters
+* New bins (ours died at comp)
 
 ### Miscellaneous
 * Fabricate more kill switch mounting plates
