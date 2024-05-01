@@ -126,3 +126,5 @@ https://docs.google.com/spreadsheets/d/18E18Z8eGh2aedHmGQmZOifpqckm16rXo4czgnBeM
 
 ### Miscellaneous
 * Fabricate more kill switch mounting plates
+    * This includes both the rear square tab with two 1/8" rivet holes and the front tab that wraps around the switch body
+* 
