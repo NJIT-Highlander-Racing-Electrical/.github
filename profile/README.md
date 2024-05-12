@@ -121,7 +121,7 @@ https://docs.google.com/spreadsheets/d/18E18Z8eGh2aedHmGQmZOifpqckm16rXo4czgnBeM
 * Heat Shrink
 * Basic arduino and soldering kits for onboarding
 * SD Cards and reader adapters
-* New bins (ours died at comp)
+* New bins (ours died at comp) -- 27 gal black/yellow tough storage totes
 * More rubber gromments
 
 ### Miscellaneous
