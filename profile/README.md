@@ -121,10 +121,11 @@ https://docs.google.com/spreadsheets/d/18E18Z8eGh2aedHmGQmZOifpqckm16rXo4czgnBeM
 * Heat Shrink
 * Basic arduino and soldering kits for onboarding
 * SD Cards and reader adapters
-* New bins (ours died at comp) -- 27 gal black/yellow tough storage totes
+* New bins (ours died at comp) -- 27 gal black/yellow tough storage totes (is this a shop purchase?)
 * More rubber gromments
 
 ### Miscellaneous
 * Fabricate more kill switch mounting plates
     * This includes both the rear square tab with two 1/8" rivet holes and the front tab that wraps around the switch body
 * Fix 2WD/4WD switch 9V/12V toggle
+* Mail back X2 transponders for newer TR2 version
