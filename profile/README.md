@@ -26,13 +26,40 @@ This organization contains individual repositories for each subsystem on the car
 
 ## 2024-2025 Design Goals 
 * Custom PCBs for subsystems where applicable
-* Custom durable, compact, and waterproof 3D printed enclosures for subsystems
 * All data outputs from subsystems are shared with each other via CAN-Bus
 * Any data on the CAN-Bus is saved to a dedicated DAQ logger
-* Universal power and data connections/cables throughout the vehicle
 * Strong design process documentation (photos, schematics, research, etc)
 
+### Wireless Communication of Vehicle Data
+* Transmit vehicle data wirelessly in real time to a dashboard/control station on a PC
+* Use some kind of long-range radio transmission
+
+### Common CAN-Bus Library
+* Provides all variables and functions to read/write data to CAN-Bus
+* Simplifies each individual subsystem's CAN-Bus implementation
+* Far easier to update CAN-Bus functions system-wide (just download most up-to-date library)  
+* Enables every subsystem to have access to all data variables
+
+### Improved Enclosures
+* Durable and compact enclosures with reasonable mounting points
+* Water-resistant connectors (aviation plug connectors may be sufficient)
+* Cable glands for any wires that are not part of an aviation plug connector
+* O-rings or other seals for clamshell enclosures
+  
+## Miscellaneous Things to Do
+* Fabricate more kill switch mounting plates
+    * This includes both the rear square tab with two 1/8" rivet holes and the front tab that wraps around the switch body
+* Fix 2WD/4WD switch 9V/12V toggle
+* Mail back X2 transponders for newer TR2 version
+* Take inventory again
+
+
 ## Electrical Design Timeline
+
+### September
+* Assign existing projects and research based on interest and experience
+* Decide on potential new projects
+* Look into what parts and sensors are best for the job
 
 ### October
 * Finish research
@@ -66,40 +93,9 @@ This organization contains individual repositories for each subsystem on the car
 ### March
 * Assemble systems on car and drive the car to test!
 
-### April
-* Competition! 🎉🎉
-* April 25-28, 2024
-* May 16-19, 2024
-
 ### April-May
+* Competition! 🎉🎉
 * Season Wrap-up
 * Make sure all documentation is posted to the GitHub
 * Mentioned what worked well, what didn't, and what we can improve on for next year
 * Take inventory of all Electrical parts in SAE room again
-
-  
-# 2024-2025 Plans
-
-## Future Goals
-
-### Wireless Communication of Vehicle Data
-* Transmit vehicle data wirelessly in real time to a dashboard/control station on a PC
-* Use some kind of long-range radio transmission
-
-### Common CAN-Bus Library
-* Provides all variables and functions to read/write data to CAN-Bus
-* Simplifies each individual subsystem's CAN-Bus implementation
-* Far easier to update CAN-Bus functions system-wide (just download most up-to-date library)  
-* Enables every subsystem to have access to all data variables
-
-### Improved Waterproofing
-* Waterproof connectors
-* Grommets for all wiring to sensors
-* O-rings or other seals for enclosoures
-  
-### Miscellaneous
-* Fabricate more kill switch mounting plates
-    * This includes both the rear square tab with two 1/8" rivet holes and the front tab that wraps around the switch body
-* Fix 2WD/4WD switch 9V/12V toggle
-* Mail back X2 transponders for newer TR2 version
-* Take inventory again
