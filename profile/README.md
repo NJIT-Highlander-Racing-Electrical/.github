@@ -45,14 +45,6 @@ This organization contains individual repositories for each subsystem on the car
 * Water-resistant connectors (aviation plug connectors may be sufficient)
 * Cable glands for any wires that are not part of an aviation plug connector
 * O-rings or other seals for clamshell enclosures
-  
-## Miscellaneous Things to Do
-* Fabricate more kill switch mounting plates
-    * This includes both the rear square tab with two 1/8" rivet holes and the front tab that wraps around the switch body
-* Fix 2WD/4WD switch 9V/12V toggle
-* Mail back X2 transponders for newer TR2 version
-* Take inventory again
-
 
 ## Electrical Design Timeline
 
@@ -99,3 +91,13 @@ This organization contains individual repositories for each subsystem on the car
 * Make sure all documentation is posted to the GitHub
 * Mentioned what worked well, what didn't, and what we can improve on for next year
 * Take inventory of all Electrical parts in SAE room again
+
+
+## Andrew's List of Things to Do
+* Fabricate more kill switch mounting plates
+    * This includes both the rear square tab with two 1/8" rivet holes and the front tab that wraps around the switch body
+* Fix 2WD/4WD switch 9V/12V toggle that got bonked at comp
+* Mail back X2 transponders for newer TR2 version
+* Take inventory again
+* Work on designing a better trailer layout (wall mounting things, laying out workbenches better, and organizing drawers/cabinets better
+
