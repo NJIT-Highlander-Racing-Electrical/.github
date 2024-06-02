@@ -90,7 +90,6 @@ This organization contains individual repositories for each subsystem on the car
 * Season Wrap-up
 * Make sure all documentation is posted to the GitHub
 * Mentioned what worked well, what didn't, and what we can improve on for next year
-* Take inventory of all Electrical parts in SAE room again
 
 
 ## Andrew's List of Things to Do
