@@ -16,7 +16,7 @@ This organization contains individual repositories for each subsystem on the car
 
 ## Important Links
 
-2025 Baja SAE Rules (STILL WAITING FOR THIS TO BE POSTED)
+2025 Baja SAE Rules (STILL WAITING FOR THIS TO BE POSTED -- should come out end of August or beginning of September)
 
 [Electrical Folder in Google Drive](https://drive.google.com/drive/folders/1Pz5bq8r8b9oh7MFo3oWOcobUKbDVZDIy?usp=drive_link)
 
