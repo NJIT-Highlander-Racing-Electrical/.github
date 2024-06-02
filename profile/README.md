@@ -16,21 +16,19 @@ This organization contains individual repositories for each subsystem on the car
 
 ## Important Links
 
-2024 Baja SAE Rules (Rev A, 8/31/23):
-https://www.bajasae.net/cdsweb/gen/DownloadDocument.aspx?DocumentID=024d6763-9fb8-45c5-b87c-08351214cede
+2025 Baja SAE Rules (STILL WAITING FOR THIS TO BE POSTED)
 
-Eletrical Inventory:
-https://docs.google.com/spreadsheets/d/19zXsWbHnRgKuqglurabbrF1yi5oSlVw6kvXuMUWI1O0/edit#gid=0
+[Electrical Folder in Google Drive](https://drive.google.com/drive/folders/1Pz5bq8r8b9oh7MFo3oWOcobUKbDVZDIy?usp=drive_link)
 
-Electrical Purchase List: 
-https://docs.google.com/spreadsheets/d/1hTMg6dxTZtMp4cDH3FeMRMjF6Ft8n0DMCeNlGOwD0Es/edit#gid=0
+[Electrical Inventory](https://docs.google.com/spreadsheets/d/19zXsWbHnRgKuqglurabbrF1yi5oSlVw6kvXuMUWI1O0/edit?usp=drive_link)
 
-## 2023-2024 Design Goals 
+[Electrical Purchase List](https://docs.google.com/spreadsheets/d/1hTMg6dxTZtMp4cDH3FeMRMjF6Ft8n0DMCeNlGOwD0Es/edit?usp=drive_link)
+
+## 2024-2025 Design Goals 
 * Custom PCBs for subsystems where applicable
-* Custom durable and compact 3D printed enclosures for subsystems
+* Custom durable, compact, and waterproof 3D printed enclosures for subsystems
 * All data outputs from subsystems are shared with each other via CAN-Bus
 * Any data on the CAN-Bus is saved to a dedicated DAQ logger
-* Single battery that powers all subsystems
 * Universal power and data connections/cables throughout the vehicle
 * Strong design process documentation (photos, schematics, research, etc)
 
