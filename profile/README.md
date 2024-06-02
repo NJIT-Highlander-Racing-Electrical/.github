@@ -114,16 +114,6 @@ https://docs.google.com/spreadsheets/d/18E18Z8eGh2aedHmGQmZOifpqckm16rXo4czgnBeM
 * Grommets for all wiring to sensors
 * O-rings or other seals for enclosoures
   
-### Purchases to Make
-* Better breadboards
-* Essential SAE devices (engine kill switches, brake lights, brake pressure sensors, transponders, etc)
-* SMD stuff?
-* Heat Shrink
-* Basic arduino and soldering kits for onboarding
-* SD Cards and reader adapters
-* New bins (ours died at comp) -- 27 gal black/yellow tough storage totes (is this a shop purchase?)
-* More rubber gromments
-
 ### Miscellaneous
 * Fabricate more kill switch mounting plates
     * This includes both the rear square tab with two 1/8" rivet holes and the front tab that wraps around the switch body
