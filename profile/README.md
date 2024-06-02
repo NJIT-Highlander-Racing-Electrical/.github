@@ -4,13 +4,15 @@
 
 This organization contains individual repositories for each subsystem on the car, including:
 * Dashboard
-* CVT Tachometer/Temperature Sensor
+* CVT Tachometer
 * Driver's Seat Pressure Sensors
-* Gas/Brake Angle Sensors
+* Gas/Brake/Steering Angle Sensors
 * Fuel Level Sensor
 * Dedicated Data Acquisition Logger with GPS
 * 2WD/4WD Engagement Switch
-* Power
+* PC Base Station
+* Power Systems
+* CAN-Bus
 
 ## Important Links
 
@@ -18,10 +20,10 @@ This organization contains individual repositories for each subsystem on the car
 https://www.bajasae.net/cdsweb/gen/DownloadDocument.aspx?DocumentID=024d6763-9fb8-45c5-b87c-08351214cede
 
 Eletrical Inventory:
-https://docs.google.com/spreadsheets/d/19zXsWbHnRgKuqglurabbrF1yi5oSlVw6kvXuMUWI1O0/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/19zXsWbHnRgKuqglurabbrF1yi5oSlVw6kvXuMUWI1O0/edit#gid=0
 
 Electrical Purchase List: 
-https://docs.google.com/spreadsheets/d/18E18Z8eGh2aedHmGQmZOifpqckm16rXo4czgnBeM4RM/edit#gid=0
+https://docs.google.com/spreadsheets/d/1hTMg6dxTZtMp4cDH3FeMRMjF6Ft8n0DMCeNlGOwD0Es/edit#gid=0
 
 ## CAN-Bus Information
 * +12V on Pin 1
