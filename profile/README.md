@@ -129,3 +129,4 @@ https://docs.google.com/spreadsheets/d/18E18Z8eGh2aedHmGQmZOifpqckm16rXo4czgnBeM
     * This includes both the rear square tab with two 1/8" rivet holes and the front tab that wraps around the switch body
 * Fix 2WD/4WD switch 9V/12V toggle
 * Mail back X2 transponders for newer TR2 version
+* Take inventory again
