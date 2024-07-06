@@ -95,6 +95,7 @@ This organization contains individual repositories for each subsystem on the car
 ## Andrew's List of Things to Do
 * Fabricate more kill switch mounting plates
     * This includes both the rear square tab with two 1/8" rivet holes and the front tab that wraps around the switch body
+ * Design a new mounting bracket for the newer version of brake light
 * Fix 2WD/4WD switch 9V/12V toggle that got bonked at comp
 * Mail back X2 transponders for newer TR2 version
 * Take inventory again
