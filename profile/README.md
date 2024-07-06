@@ -99,4 +99,4 @@ This organization contains individual repositories for each subsystem on the car
 * Mail back X2 transponders for newer TR2 version
 * Take inventory again
 * Work on designing a better trailer layout (wall mounting things, laying out workbenches better, and organizing drawers/cabinets better
-
+* Keep Electrical Bible updated based on 2024-2025 rulebook
