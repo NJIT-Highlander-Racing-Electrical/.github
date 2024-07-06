@@ -95,9 +95,12 @@ This organization contains individual repositories for each subsystem on the car
 ## Andrew's List of Things to Do
 * Fabricate more kill switch mounting plates
     * This includes both the rear square tab with two 1/8" rivet holes and the front tab that wraps around the switch body
- * Design a new mounting bracket for the newer version of brake light
+* Design a new mounting bracket for the newer version of brake light
 * Fix 2WD/4WD switch 9V/12V toggle that got bonked at comp
 * Mail back X2 transponders for newer TR2 version
 * Take inventory again
-* Work on designing a better trailer layout (wall mounting things, laying out workbenches better, and organizing drawers/cabinets better
+* Work on designing a better trailer layout
+   * Install Toolgrid Organization System sponsor hardware
+   * wall mounting things, laying out workbenches better, and organizing drawers/cabinets better
 * Keep Electrical Bible updated based on 2024-2025 rulebook
+* Reach out to RuggedRadios on or after 9/1/24 for 2025 sponsorship
