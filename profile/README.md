@@ -102,6 +102,7 @@ This organization contains individual repositories for each subsystem on the car
 * Take inventory again
 * Work on designing a better trailer layout
    * Install Toolgrid Organization System sponsor hardware
+      * SEND THEM AN "AFTER" PHOTO AS PER THEIR REQUEST!!!! 
    * wall mounting things, laying out workbenches better, and organizing drawers/cabinets better
 * Keep Electrical Bible updated based on 2024-2025 rulebook
 * Reach out to RuggedRadios on or after 9/1/24 for 2025 sponsorship
