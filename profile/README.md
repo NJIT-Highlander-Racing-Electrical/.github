@@ -100,9 +100,12 @@ This organization contains individual repositories for each subsystem on the car
 * Fix 2WD/4WD switch 9V/12V toggle that got bonked at comp
 * Mail back X2 transponders for newer TR2 version
 * Take inventory again
-* Work on designing a better trailer layout
-   * Install Toolgrid Organization System sponsor hardware
-      * SEND THEM AN "AFTER" PHOTO AS PER THEIR REQUEST!!!! 
-   * wall mounting things, laying out workbenches better, and organizing drawers/cabinets better
+
+* Install Toolgrid Organization System sponsor hardware
+    * SEND THEM AN "AFTER" PHOTO AS PER THEIR REQUEST!!!! 
+    * Labels on all WRENCH holders
+    * Labels on all sockets
+    * Numbers on screwdrivers and tool holder pairs
+    * Screw down all holders to final positions 
 * Keep Electrical Bible updated based on 2024-2025 rulebook
 * Reach out to RuggedRadios on or after 9/1/24 for 2025 sponsorship
