@@ -16,8 +16,7 @@ This organization contains individual repositories for each subsystem on the car
 
 ## Important Links
 
-[2025 Baja SAE Rules]
-(https://www.bajasae.net/cdsweb/gen/DownloadDocument.aspx?DocumentID=ebab1320-778a-430e-8d5f-93eb4d92d806)
+[2025 Baja SAE Rules](https://www.bajasae.net/cdsweb/gen/DownloadDocument.aspx?DocumentID=ebab1320-778a-430e-8d5f-93eb4d92d806)
 
 [Electrical Folder in Google Drive](https://drive.google.com/drive/folders/1Pz5bq8r8b9oh7MFo3oWOcobUKbDVZDIy?usp=drive_link)
 
