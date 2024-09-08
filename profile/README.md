@@ -98,7 +98,7 @@ This organization contains individual repositories for each subsystem on the car
 * Design a new mounting bracket for the newer version of brake light
 * **Fix 2WD/4WD switch 9V/12V toggle that got bonked at comp**
 * **Mail back X2 transponders for newer TR2 version**
-* **Take inventory again**
+* **Update Inventory Item Quantities in Spreadsheet**
 * **Install Toolgrid Organization System sponsor hardware**
     * After everything is complete, make a inventory/quick-lookup sheet that has all the tool names, drawer, tool ID number, etc
-* **Reach out to RuggedRadios on or after 9/1/24 for 2025 sponsorship**
+* **Reach out to RuggedRadios soon for 2025 sponsorship**
