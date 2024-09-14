@@ -8,9 +8,8 @@ This organization contains individual repositories for each subsystem on the car
 * Driver's Seat Pressure Sensors
 * Gas/Brake/Steering Angle Sensors
 * Fuel Level Sensor
-* Dedicated Data Acquisition Logger with GPS
-* 2WD/4WD Engagement Switch
-* PC Base Station
+* Dedicated Data Acquisition Logger with GPS - Alex
+  PC Base Station
 * Power Systems
 * CAN-Bus
 
