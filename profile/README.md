@@ -9,7 +9,7 @@ This organization contains individual repositories for each subsystem on the car
 * Gas/Brake/Steering Angle Sensors
 * Fuel Level Sensor
 * Dedicated Data Acquisition Logger with GPS - Alex
-  PC Base Station
+* PC Base Station
 * Power Systems
 * CAN-Bus
 
