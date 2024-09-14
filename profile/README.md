@@ -12,6 +12,7 @@ This organization contains individual repositories for each subsystem on the car
 * PC Base Station
 * Power Systems - Channy
 * CAN-Bus
+* Wheel Speed Sensors (Andrew)
 
 ## Important Links
 
