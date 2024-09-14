@@ -4,13 +4,13 @@
 
 This organization contains individual repositories for each subsystem on the car, including:
 * Dashboard
-* CVT Tachometer
+* CVT Tachometer 
 * Driver's Seat Pressure Sensors
 * Gas/Brake/Steering Angle Sensors
 * Fuel Level Sensor
 * Dedicated Data Acquisition Logger with GPS - Alex
 * PC Base Station
-* Power Systems
+* Power Systems - Channy
 * CAN-Bus
 
 ## Important Links
