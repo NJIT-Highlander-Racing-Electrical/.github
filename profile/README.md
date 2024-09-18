@@ -3,16 +3,18 @@
 ## A GitHub Organization for NJIT's Highlander Racing Electrical Subteam
 
 This organization contains individual repositories for each subsystem on the car, including:
-* Dashboard
-* CVT Tachometer 
+* Dashboard (Nicolas)
+* CVT Tachometer (Yahil)
 * Driver's Seat Pressure Sensors
-* Gas/Brake/Steering Angle Sensors
-* Fuel Level Sensor
-* Dedicated Data Acquisition Logger with GPS - Alex
-* PC Base Station
-* Power Systems - Channy
-* CAN-Bus
+* Gas/Brake/Steering Angle Sensors (Nicolas -- steering)
+* Fuel Level Sensor (Stephen)
+* Dedicated Data Acquisition Logger with GPS (Alex)
+* PC Base Station (Abhi, Ethan)
 * Wheel Speed Sensors (Andrew)
+* Suspension Displacement (Gerad)
+* Power Systems (Channy)
+* Enclosures (Kamsi)
+* CAN-Bus (Sachin)
 
 ## Important Links
 
