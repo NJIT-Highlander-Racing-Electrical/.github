@@ -32,22 +32,6 @@ This organization contains individual repositories for each subsystem on the car
 * Any data on the CAN-Bus is saved to a dedicated DAQ logger
 * Strong design process documentation (photos, schematics, research, etc)
 
-### Wireless Communication of Vehicle Data
-* Transmit vehicle data wirelessly in real time to a dashboard/control station on a PC
-* Use some kind of long-range radio transmission
-
-### Common CAN-Bus Library
-* Provides all variables and functions to read/write data to CAN-Bus
-* Simplifies each individual subsystem's CAN-Bus implementation
-* Far easier to update CAN-Bus functions system-wide (just download most up-to-date library)  
-* Enables every subsystem to have access to all data variables
-
-### Improved Enclosures
-* Durable and compact enclosures with reasonable mounting points
-* Water-resistant connectors (aviation plug connectors may be sufficient)
-* Cable glands for any wires that are not part of an aviation plug connector
-* O-rings or other seals for clamshell enclosures
-
 ## Electrical Design Timeline
 
 ### September
