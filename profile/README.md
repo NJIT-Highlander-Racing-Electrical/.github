@@ -83,6 +83,8 @@ This organization contains individual repositories for each subsystem on the car
 
 
 ## Andrew's List of Things to Do
+* Pick up transponders from home
+    * Determine if we need to purchase new charge cradle and plastic mounts
 * Fabricate more kill switch mounting plates
     * This includes both the rear square tab with two 1/8" rivet holes and the front tab that wraps around the switch body
 * Design a new mounting bracket for the newer version of brake light
