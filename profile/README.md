@@ -90,6 +90,7 @@ This organization contains individual repositories for each subsystem on the car
    * "In my experience, it gets stuck in endPacket when the wiring is wrong. Either wiring or missing a terminating resistor"
    * already have tried swapping transceivers, changing transceiver VIN to 3.3V, then changing both TX/RX pins
    * seems to be a hardware issue within the DAQ because it doesnt work when plugged into dashboard connector 
+   * someone else also said it was their ESP32: https://electronics.stackexchange.com/questions/697037/can-bus-with-3-nodes-problem
 * Fabricate more kill switch mounting plates
     * This includes both the rear square tab with two 1/8" rivet holes and the front tab that wraps around the switch body
 * Design a new mounting bracket for the newer version of brake light
