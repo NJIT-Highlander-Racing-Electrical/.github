@@ -85,6 +85,7 @@ This organization contains individual repositories for each subsystem on the car
 ## Andrew's List of Things to Do
 * Pick up transponders from home
     * Determine if we need to purchase new charge cradle and plastic mounts
+* Fix dash right LCD not lighting up. library issue with TFT_eSPI and DC/CS default pins
 * Fix DAQ hanging when trying to send CAN message
    * "In my experience, it gets stuck in endPacket when the wiring is wrong. Either wiring or missing a terminating resistor"
    * already have tried swapping transceivers, changing transceiver VIN to 3.3V, then changing both TX/RX pins
