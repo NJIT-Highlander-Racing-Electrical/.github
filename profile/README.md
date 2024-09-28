@@ -85,8 +85,11 @@ This organization contains individual repositories for each subsystem on the car
 ## Andrew's List of Things to Do
 * Pick up transponders from home
     * Determine if we need to purchase new charge cradle and plastic mounts
+* Fix DAQ hanging when trying to send CAN message
+   * "In my experience, it gets stuck in endPacket when the wiring is wrong. Either wiring or missing a terminating resistor"
+   * already have tried swapping transceivers, changing transceiver VIN to 3.3V, then changing both TX/RX pins
+   * seems to be a hardware issue within the DAQ because it doesnt work when plugged into dashboard connector 
 * Fabricate more kill switch mounting plates
     * This includes both the rear square tab with two 1/8" rivet holes and the front tab that wraps around the switch body
 * Design a new mounting bracket for the newer version of brake light
-* **Fix 2WD/4WD switch 9V/12V toggle that got bonked at comp**
 * **Reach out to RuggedRadios soon for 2025 sponsorship**
