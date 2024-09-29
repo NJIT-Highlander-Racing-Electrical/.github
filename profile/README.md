@@ -85,12 +85,26 @@ This organization contains individual repositories for each subsystem on the car
 ## Andrew's List of Things to Do
 * Pick up transponders from home
     * Determine if we need to purchase new charge cradle and plastic mounts
+ 
 * Fix dash right LCD not lighting up. library issue with TFT_eSPI and DC/CS default pins
+  
 * Fix DAQ hanging when trying to send CAN message
    * "In my experience, it gets stuck in endPacket when the wiring is wrong. Either wiring or missing a terminating resistor"
    * already have tried swapping transceivers, changing transceiver VIN to 3.3V, then changing both TX/RX pins
-   * seems to be a hardware issue within the DAQ because it doesnt work when plugged into dashboard connector 
+   * seems to be an issue within the DAQ because it doesnt work when plugged into dashboard connector 
    * someone else also said it was their ESP32: https://electronics.stackexchange.com/questions/697037/can-bus-with-3-nodes-problem
+   * Steps to rectify this issue:
+         * Check timing of CAN messages on DAQ and make sure it is
+               * 1) even sending a message in the first place
+               * 2) actually 500kbps (even though we have to set it to 1000kbps)
+         * Check overall CAN bus lines to see if DAQ is causing BUSHEAVY or BUSOFF
+               * I really doubt it's this since tach and dash are communicating fine
+         * Reduce number of messages from CVT in case it is a collision thing.
+              * Along with this, make sure CVT is not completely flooding the bus
+         * Try different CAN driver library
+         * Last resort replace ESP32 board if CAN hardware is permanently faulty
+
+     
 * Fabricate more kill switch mounting plates
     * This includes both the rear square tab with two 1/8" rivet holes and the front tab that wraps around the switch body
 * Design a new mounting bracket for the newer version of brake light
