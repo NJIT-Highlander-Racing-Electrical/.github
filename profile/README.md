@@ -5,7 +5,7 @@
 This organization contains individual repositories for each subsystem on the car, including:
 * Dashboard (Nicolas)
 * CVT Tachometer (Yahil)
-* Gas/Brake/Steering Angle Sensors (Nicolas -- steering)
+* Gas/Brake Pedal Sensors
 * Fuel Level Sensor (Stephen)
 * Dedicated Data Acquisition Logger with GPS (Alex)
 * PC Base Station (Abhi, Ethan)
