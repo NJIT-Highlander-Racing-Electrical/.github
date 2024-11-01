@@ -77,11 +77,3 @@ This organization contains individual repositories for each subsystem on the car
 * Season Wrap-up
 * Make sure all documentation is posted to the GitHub
 * Mentioned what worked well, what didn't, and what we can improve on for next year
-
-
-## Andrew's List of Things to Do
-
-* Fabricate more kill switch mounting plates
-    * This includes both the rear square tab with two 1/8" rivet holes and the front tab that wraps around the switch body
-* Design a new mounting bracket for the newer version of brake light
-* **Reach out to RuggedRadios soon for 2025 sponsorship**
