@@ -56,11 +56,9 @@ This organization contains individual repositories for each subsystem on the car
 * Order PCBs (if necessary)
 
 ### January
-* Solder all components for permanent design (on PCB if necessary)
-* Test circuit and program to ensure everything works
-* Begin designing enclosures for your specific components
-* Accessible enclosures with cable holes and assembled with screws
-* Compact and durable
+* Use female headers on PCB to test designs
+   * If they work, solder the components directly to another PCB
+   * If they don't, troubleshoot the PCBs to see what needs to change for v2
 
 ### February
 * Final design and program improvements
