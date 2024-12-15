@@ -75,3 +75,12 @@ This organization contains individual repositories for each subsystem on the car
 * Season Wrap-up
 * Make sure all documentation is posted to the GitHub
 * Mentioned what worked well, what didn't, and what we can improve on for next year
+
+
+## 2025-2026 Design Goals 
+* Complete KiCad library for commonly used hardware - CAN transceievers, USB-C ESP32 boards, pads for aviation plugs, etc
+    * Includes symbols, footprints, and 3D models
+* Move towards SMD boards
+     * Custom CAN transceiver footprints for use on boards
+     * Integrate 2024-2025 voltage regulator board on each subsystem's PCB
+           * Components can be larger for easier soldering
