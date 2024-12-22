@@ -27,6 +27,12 @@ This organization contains individual repositories for each subsystem on the car
 
 [Electrical Purchase List](https://docs.google.com/spreadsheets/d/1hTMg6dxTZtMp4cDH3FeMRMjF6Ft8n0DMCeNlGOwD0Es/edit?usp=drive_link)
 
+[NJIT Baja KiCad Library]()
+
+[ESP-32 Pin Information]()
+
+[Learning Resources](https://github.com/NJIT-Highlander-Racing-Electrical/.github/tree/main/Learning)
+
 ## 2024-2025 Design Goals 
 * Custom PCBs for subsystems where applicable
 * All data outputs from subsystems are shared with each other via CAN-Bus
