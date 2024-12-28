@@ -24,9 +24,9 @@
 | 27            |                      |             |
 | 32            |                      |             |
 | 33            |                      |             |
-| 34            |                      | Input only  |
-| 35            |                      | Input only  |
-| 36            |                      | Input only  |
-| 39            |                      | Input only  |
+| 34            |                      | Input only, does not have internal pull-up  |
+| 35            |                      | Input only, does not have internal pull-up |
+| 36            |                      | Input only, does not have internal pull-up  |
+| 39            |                      | Input only, does not have internal pull-up  |
 | RX0           | Hardware Serial 0 RX  | Used for serial communication with PC/Arduino IDE |
 | TX0           | Hardware Serial 0 TX  | Used for serial communication with PC/Arduino IDE |
