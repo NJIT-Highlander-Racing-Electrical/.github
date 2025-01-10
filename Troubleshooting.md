@@ -23,7 +23,14 @@ This was due to the issue listed above. the switch..case was not in the if state
 
 ### Message data on logic analyzer does not match what was sent
 
+#### Data is consistent, but not accurate
+
 We use CAN.print which has the same functionality as Serial.print. If you send it a "1", it will interpret that as an ASCII 1, and send the hex code for that instead.
+
+### Data is inconsistent
+
+If random data is coming through over the bus, it could be a baud rate issue where the clocks do not align with the samples. However, I noticed that the termination resistors have a big effect on noise and data issues. I tested with a physically short bus and three subsystems, and it would only function if there was one CAN pal with its termination resistor enabled. With a termination resistor on each physical end of the short bus, there were extreme issues 
+
 
 ## General Software Troubleshooting
 
