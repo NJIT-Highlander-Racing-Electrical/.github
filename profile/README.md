@@ -11,9 +11,9 @@ This organization contains individual repositories for each subsystem on the car
 * PC Base Station (Ethan)
 * Wheel Speed Sensors (Andrew)
 * Suspension Displacement
-* Power Systems (Channy)
-* Enclosures (Kamsi)
-* CAN-Bus (Sachin)
+* Power Systems
+* Enclosures
+* CAN-Bus
 
 
 
