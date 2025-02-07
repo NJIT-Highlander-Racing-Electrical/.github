@@ -1,4 +1,4 @@
-# Troubleshooting
+# Software Troubleshooting
 
 A list of issues I have ran into, with fixes, if applicable. Originally in CAN Bus repo, but moved over here to be more general for all software issues 
 
