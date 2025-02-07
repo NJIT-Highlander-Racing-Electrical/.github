@@ -25,6 +25,6 @@ Most turned out very nice. One thing to make sure of is that any tape covering a
 
 ## Electronics Hardware
 
-## Adafruit CAN Pal Transceivers
+### Adafruit CAN Pal Transceivers
 
 Definitely had some issues with these over the last two years. Mysterious issues that are hard to pinpoint. Ethan found some with poor soldering jobs on the SMD components, so perhaps their quality control is not too good. Additioanlly, the through hole mounting is extremely hard to replace. Maybe our custom surface mount ones next year may be easier to replace if necessary, or we can find ways to make the larger components modular (like multi-pin ICs)
