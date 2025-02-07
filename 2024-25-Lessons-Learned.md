@@ -1,17 +1,30 @@
-* Lessons Learned during 2024-2025 season
+# Lessons Learned during 2024-2025 season
 
-** Enclosures
+## Enclosures
 
-*** Modeling Dimensions
+### Modeling Dimensions
 
 Since all of the enclosures are relatively the same, it would have been much easier to have one master template with variables for length, width, and height dimensions that could easily be changed for each subsystem to accomodate different sized PCBs
 
-*** Gaskets
+### Gaskets
 
 The gasket material we used this year was a bit annoying to work with. Because it has a fabric-y feel, it was hard to laser cut cleanly. It also did not adhere to the acrylic covers with superglue very well because the superglue absorbed into the material.
 
-*** Cover Screws
+### Cover Screws
 
 Two things to do with this. One, a screw on top and bottom instead of just the sides would have been beneficial so the acrylic doesnt arch in the middle. Additionally, some of the screw threads got messed up when making them into thumb screws, so maybe find a better way to attach the plastic knobs for that 
 
+### Laser Cutting Enclosures
 
+The power setting seemed to be just shy of where it needed to be. Some enclosures cut perfectly fine, but there were other parts where the very bottom was not fully cut through and some post-processing had to be done
+
+### Spray Painting Enclosurse
+
+Most turned out very nice. One thing to make sure of is that any tape covering areas not to be spray painted is fully pressed down with a large overlap so no paint bleeds into those regions
+
+
+## Electronics Hardware
+
+## Adafruit CAN Pal Transceivers
+
+Definitely had some issues with these over the last two years. Mysterious issues that are hard to pinpoint. Ethan found some with poor soldering jobs on the SMD components, so perhaps their quality control is not too good. Additioanlly, the through hole mounting is extremely hard to replace. Maybe our custom surface mount ones next year may be easier to replace if necessary, or we can find ways to make the larger components modular (like multi-pin ICs)
