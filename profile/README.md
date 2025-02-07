@@ -89,4 +89,4 @@ This organization contains individual repositories for each subsystem on the car
 * Move towards SMD boards
      * Custom CAN transceiver footprints for use on boards
      * Integrate 2024-2025 voltage regulator board on each subsystem's PCB
-           * Components can be larger for easier soldering
+         * Components can be larger for easier soldering
