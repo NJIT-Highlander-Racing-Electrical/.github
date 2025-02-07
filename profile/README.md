@@ -29,7 +29,7 @@ This organization contains individual repositories for each subsystem on the car
 
 [NJIT Baja KiCad Library](https://github.com/NJIT-Highlander-Racing-Electrical/.github/tree/main/NJIT-Baja-KiCad-Library)
 
-[ESP-32 Pin Information](https://github.com/NJIT-Highlander-Racing-Electrical/.github/blob/main/ESP32-Pin-Information.md)
+[ESP-32 Pin Information](https://github.com/NJIT-Highlander-Racing-Electrical/.github/blob/main/Learning/ESP32-Pin-Information.md)
 
 [Learning Resources](https://github.com/NJIT-Highlander-Racing-Electrical/.github/tree/main/Learning)
 
