@@ -31,6 +31,10 @@ We use CAN.print which has the same functionality as Serial.print. If you send i
 
 If random data is coming through over the bus, it could be a baud rate issue where the clocks do not align with the samples. However, I noticed that the termination resistors have a big effect on noise and data issues. I tested with a physically short bus and three subsystems, and it would only function if there was one CAN pal with its termination resistor enabled. With a termination resistor on each physical end of the short bus, there were extreme issues 
 
+### Arduino CAN Library does not compile
+
+This may be happening if you are using the ESP32 V3 Board Manager in the IDE. The sandeepmistry GitHub page has not updated to accomodate this new version, but V2.0.17 seems to work fine. 
+
 
 ## General Software Troubleshooting
 
