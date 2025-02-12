@@ -7,7 +7,7 @@ This organization contains individual repositories for each subsystem on the car
 * CVT Tachometer
 * Gas/Brake Pedal Sensors
 * Fuel Level Sensor
-* Dedicated Data Acquisition Logger with GPS
+* Data Acquisition System
 * PC Base Station
 * Wheel Speed Sensors
 * Suspension Displacement
