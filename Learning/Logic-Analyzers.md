@@ -1,5 +1,6 @@
 # What is a Logic Analyzer?
 
+A logic analyzer is an instrument for capturing, displaying, and measuring multiple electronic signals simultaneously in a digital circuit. Logic analyzers are capable of showing the relationship and timing among many different signals in a digital system and are often capable of analyzing digital communication protocols, such as I2C, SPI, and Serial. As a result, a logic analyzer is the best tool for debugging digital circuits and digital communication systems. [(Saleae)](https://articles.saleae.com/logic-analyzers/what-is-a-logic-analyzer)
 
 # HiLetgo USB Logic Analyzers
 
@@ -23,3 +24,4 @@ Once you have installed the drivers above, Saleae should recognize the logic ana
 
 ## Getting Started with CAN decoding
 
+In Logic 2,
