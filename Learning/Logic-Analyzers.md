@@ -10,18 +10,20 @@ To get started with one of these:
 
 ## Download [Zadig](https://zadig.akeo.ie/) for Windows
 
-This is the application you need to install the following driver
+This is the application you need to install the following driver.
 
 ## Run Zadig for WinUSB
 
-Plug in the logic analyzer, select it as a device, and install the WinUSB driver. You may have to run the driver installation twice if any issues come up.
+Plug in the logic analyzer, select it as a device, and install the WinUSB driver. You may have to run the driver installation twice if any issues come up. This installation may take several minutes, so be patient.
 
 # Saleae Logic Software
 
-Saleae Logic Analyzers are powerful, and more notably, expensive logic analyzers. They use Saleae's Logic 2 software which allows you to see the data that is read by the analyzer. It is simple to set up and use, and more importantly, it has built in decoding feeatures. For example, it can identify a string of CAN bits and decode the packet into its respective data fields. Fortunately, this software also works with non-Saleae devicse like the HiLetgo Logic Analyzer. 
+Saleae Logic Analyzers are powerful, and more notably, expensive logic analyzers. They use Saleae's (Logic 2)[https://logic2api.saleae.com/download?os=windows&arch=x64&_gl=1*h7p920*_gcl_au*MTEzMzIyMDAwNy4xNzQwMDEwMTM1] software which allows you to see the data that is read by the analyzer. It is simple to set up and use, and more importantly, it has built in decoding feeatures. For example, it can identify a string of CAN bits and decode the packet into its respective data fields. Fortunately, this software also works with non-Saleae devicse like the HiLetgo Logic Analyzer. 
 
-Once you have installed the drivers above, Saleae should recognize the logic analyzer as a device.
+Once you have installed the drivers above, the Saleae software should recognize the logic analyzer as a device.
 
-## Getting Started with CAN decoding
+## Getting Started with Logic 2 and CAN decoding
 
-In Logic 2,
+After starting Logic 2, you should be able to immediately start viewing logic data. Note that these more affordable analyzers are not likely to support the highest data sample rate in Logic 2 (24MS/s), so try setting it to 16 MS/s or lower.
+
+To view decoded CAN data, click the **Analyzers** tab on the right side (1F icon), and click the + icon. Select CAN and whichever channel you prefer to use. The bitrate we generally use for Baja is 500,000 or 500kbit/s. Other CAN systems may be different. Leave the **Inverted (CAN High)** box unchecked. It is unlikely you will be able to view the CAN HIGH signal, which goes between 2.5V and 3.5V. Logic analyzers will generally mark any signal above 2V as high. Nonetheless, Logic 2 will still be able to decode the data solely from the LOW signal.
