@@ -16,7 +16,7 @@ This is the application you need to install the following driver.
 
 Plug in the logic analyzer, select it as a device, and install the WinUSB driver. You may have to run the driver installation twice if any issues come up. This installation may take several minutes, so be patient.
 
-# Saleae Logic Software
+# Saleae [Logic 2](https://www.saleae.com/pages/downloads?srsltid=AfmBOor6FygTGAU4ubF86uryjJIEr9ODfYEBilPChjsBzgmbG-cqx6jO) Software
 
 Saleae Logic Analyzers are powerful, and more notably, expensive logic analyzers. They use Saleae's [Logic 2](https://www.saleae.com/pages/downloads?srsltid=AfmBOor6FygTGAU4ubF86uryjJIEr9ODfYEBilPChjsBzgmbG-cqx6jO) software which allows you to see the data that is read by the analyzer. It is simple to set up and use, and more importantly, it has built in decoding feeatures. For example, it can identify a string of CAN bits and decode the packet into its respective data fields. Fortunately, this software also works with non-Saleae devicse like the HiLetgo Logic Analyzer. 
 
