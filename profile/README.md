@@ -9,8 +9,7 @@ This organization contains individual repositories for each subsystem on the car
 * Fuel Level Sensor
 * Data Acquisition System
 * PC Base Station
-* Wheel Speed Sensors
-* Suspension Displacement
+* Wheel Speed/Suspension Travel
 * Power Systems
 * Enclosures
 * CAN-Bus
