@@ -24,7 +24,7 @@ Most turned out very nice. One thing to make sure of is that any tape covering a
 
 ### Laser Cutting Engraving Board
 
-Engraving board was very annoying to get tuned in this year. See (Dashboard Manufacturing Doc)[https://docs.google.com/document/d/1SboHkU5eu9X-XPbC42ve_8zeORpnQzHskEh5Oi-o60I/edit?usp=drive_link]
+Engraving board was very annoying to get tuned in this year. See [Dashboard Manufacturing Doc](https://docs.google.com/document/d/1SboHkU5eu9X-XPbC42ve_8zeORpnQzHskEh5Oi-o60I/edit?usp=drive_link)
 
 
 ## Electronics Hardware
