@@ -22,6 +22,10 @@ The power setting seemed to be just shy of where it needed to be. Some enclosure
 
 Most turned out very nice. One thing to make sure of is that any tape covering areas not to be spray painted is fully pressed down with a large overlap so no paint bleeds into those regions
 
+### Laser Cutting Engraving Board
+
+Engraving board was very annoying to get tuned in this year. See https://docs.google.com/document/d/1SboHkU5eu9X-XPbC42ve_8zeORpnQzHskEh5Oi-o60I/edit?usp=drive_link
+
 
 ## Electronics Hardware
 
