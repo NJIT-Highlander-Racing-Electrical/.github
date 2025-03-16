@@ -24,11 +24,9 @@ This organization contains individual repositories for each subsystem on the car
 
 [Electrical Inventory](https://docs.google.com/spreadsheets/d/19zXsWbHnRgKuqglurabbrF1yi5oSlVw6kvXuMUWI1O0/edit?usp=drive_link)
 
-[Electrical Purchase List](https://docs.google.com/spreadsheets/d/1hTMg6dxTZtMp4cDH3FeMRMjF6Ft8n0DMCeNlGOwD0Es/edit?usp=drive_link)
+[Electrical Photos/Videos](https://drive.google.com/drive/folders/1SR_HuOiAXgWjmbBMsi99OzsaskyCo2m3)
 
 [NJIT Baja KiCad Library](https://github.com/NJIT-Highlander-Racing-Electrical/.github/tree/main/NJIT-Baja-KiCad-Library)
-
-[ESP-32 Pin Information](https://github.com/NJIT-Highlander-Racing-Electrical/.github/blob/main/Learning/ESP32-Pin-Information.md)
 
 [Learning Resources](https://github.com/NJIT-Highlander-Racing-Electrical/.github/tree/main/Learning)
 
