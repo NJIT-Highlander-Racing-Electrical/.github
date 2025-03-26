@@ -32,3 +32,8 @@ Engraving board was very annoying to get tuned in this year. See [Dashboard Manu
 ### Adafruit CAN Pal Transceivers
 
 Definitely had some issues with these over the last two years. Mysterious issues that are hard to pinpoint. Ethan found some with poor soldering jobs on the SMD components, so perhaps their quality control is not too good. Additioanlly, the through hole mounting is extremely hard to replace. Maybe our custom surface mount ones next year may be easier to replace if necessary, or we can find ways to make the larger components modular (like multi-pin ICs)
+
+
+## Brake Light
+
+Our old circular brake light was outdated, so I was looking to upgrade to something more modern. Polaris offers several brake lights, but it does not look like they sell the connectors for them. I (wrongly) assumed it was just a standard 3-pin way connector, but it turned out to be a proprietary connector. So, I ordered the proprietary connectors on Amazon, and then soon discovered that Polaris uses more than one proprietary connector! It appears that SAE does not permit any brake lights with the connectors I ordered, so I modified an existing 3-pin way connector to fit the brake light's notches. Functionally the same, but worth noting this extra step in the assembly process. I have also made 2-3 extra modified connectors as spares or for future years. I still think it is worth sticking with our current 2411450 brake light model. 
