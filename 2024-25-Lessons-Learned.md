@@ -12,7 +12,7 @@ The gasket material we used this year was a bit annoying to work with. Because i
 
 ### Cover Screws
 
-Two things to do with this. One, a screw on top and bottom instead of just the sides would have been beneficial so the acrylic doesnt arch in the middle. Additionally, some of the screw threads got messed up when making them into thumb screws, so maybe find a better way to attach the plastic knobs for that 
+Two things to do with this. One, a screw on top and bottom instead of just the sides would have been beneficial so the acrylic doesnt arch in the middle. This would be 8 screws total per enclosure: three along the top edge, three along the bottom edge, and two on the middle of each side. Additionally, some of the screw threads got messed up when making them into thumb screws, so maybe find a better way to attach the plastic knobs for that.
 
 ### Laser Cutting Enclosures
 
