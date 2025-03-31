@@ -41,3 +41,13 @@ This may be happening if you are using the ESP32 V3 Board Manager in the IDE. Th
 ###  Task watchdog got triggered. The following tasks did not reset the watchdog in time:
 
 This could be happening for several reasons, but in my case it was due to IDLE not resetting the watchdog on CPU 0 (secondary core). If the program is stuck in one piece of code too long, the watchdog will not be able to reset and the board will crash. I tried adding a delay at first, but it did not work. I determined that the issue stemmed from the CAN sender code. Since I was only using one subsystem at the time, the messages were not receiving an ACK over the bus and continued sending forever. This also resulted in the secondary analog reading never updating. It may be worth looking back at the BajaCAN code to see if the delay in the sender code is still necessary
+
+
+## Specific Hardware Troubleshooting
+
+### Adafruit Ultimate GPS not communicating with ESP32 over Hardware Serial
+I thought this was because the module was being supplied with 5V on VIN pin and was not operating at the proper logic level. However, the GPS module has some logic level shifting built in so that is not an issue. The Adafruit code supplied does not properly initialize the Serial2 port for reading data. I used Serial2.begin(9600, SERIAL_8N1, 16, 17); and was able to receive and parse data.
+
+### MicroSD card reader not working
+
+I was getting the message: "The physical drive cannot work." It turned out to be a bad reader; there was a missing capacitor on the board.
