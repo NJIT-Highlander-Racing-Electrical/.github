@@ -53,7 +53,7 @@ In addition to the sheer volume of electrical going through the firewall, these 
 
 Generally, the grommet hole needed for sufficient clearance of these connectors will leave a hole exceeding 1/4" when the cable is in place.
 
-It was decided that best solution to this is to have a neoprene rubber sheet or high-temperature gasket material with cutouts for the wires to pass through. This can be riveted or adhered to the firewall. This setup provides flexibility in the number of connections and size of connections that pass through. With more planning and knowledge of the size of connectors, specially sized grommets like [these](https://www.amazon.com/Grommet-Plastic-Through-Countertop-XIOGZAXI/dp/B0CWY11ZPS?th=1) could be used. 
+It was decided that best solution to this is to have a neoprene rubber sheet with cutouts for the wires to pass through. This can be riveted or adhered to the firewall. This setup provides flexibility in the number of connections and size of connections that pass through. With more planning and knowledge of the size of connectors, specially sized grommets like [these](https://www.amazon.com/Grommet-Plastic-Through-Countertop-XIOGZAXI/dp/B0CWY11ZPS?th=1) could be used. 
 
 #### Types of Connectors
 
@@ -67,6 +67,7 @@ Waterproof 3 pin automotive connectors were used in the 2024-2025 car to both ma
 
 ### Containment Inside Roll Boundary
 
+The original placement of the battery box on the 2024-2025 vehicle was outside the roll boundary (determined by any line tangent to two points on the chassis--think a bar going from point to point).
 
 ### General Wiring Suggestions
 
