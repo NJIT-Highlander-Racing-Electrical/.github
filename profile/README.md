@@ -26,9 +26,9 @@ This organization contains individual repositories for each subsystem on the car
 
 [Electrical Photos/Videos](https://drive.google.com/drive/folders/1SR_HuOiAXgWjmbBMsi99OzsaskyCo2m3)
 
-[NJIT Baja KiCad Library](https://github.com/NJIT-Highlander-Racing-Electrical/.github/tree/main/NJIT-Baja-KiCad-Library)
+[NJIT Baja KiCad Library](https://github.com/NJIT-Highlander-Racing-Electrical/.github/tree/main/2.%20NJIT-Baja-KiCad-Library)
 
-[Learning Resources](https://github.com/NJIT-Highlander-Racing-Electrical/.github/tree/main/Learning)
+[Learning Resources](https://github.com/NJIT-Highlander-Racing-Electrical/.github/tree/main/1.%20Learning)
 
 ## 2024-2025 Design Goals 
 * Custom PCBs for subsystems where applicable
