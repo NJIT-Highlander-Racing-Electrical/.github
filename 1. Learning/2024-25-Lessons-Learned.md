@@ -1,0 +1,87 @@
+# Lessons Learned during 2024-2025 season
+
+## Enclosures
+
+### Modeling Dimensions
+
+Since all of the enclosures are relatively the same, it would have been much easier to have one master template with variables for length, width, and height dimensions that could easily be changed for each subsystem to accomodate different sized PCBs
+
+### Gaskets
+
+The gasket material we used this year was a bit annoying to work with. Because it has a fabric-y feel, it was hard to laser cut cleanly. It also did not adhere to the acrylic covers with superglue very well because the superglue absorbed into the material.
+
+### Cover Screws
+
+Two things to do with this. One, a screw on top and bottom instead of just the sides would have been beneficial so the acrylic doesnt arch in the middle. This would be 8 screws total per enclosure: three along the top edge, three along the bottom edge, and two on the middle of each side. Additionally, some of the screw threads got messed up when making them into thumb screws, so maybe find a better way to attach the plastic knobs for that.
+
+### Laser Cutting Enclosures
+
+The power setting seemed to be just shy of where it needed to be. Some enclosures cut perfectly fine, but there were other parts where the very bottom was not fully cut through and some post-processing had to be done
+
+### Spray Painting Enclosurse
+
+Most turned out very nice. One thing to make sure of is that any tape covering areas not to be spray painted is fully pressed down with a large overlap so no paint bleeds into those regions
+
+### Laser Cutting Engraving Board
+
+Engraving board was very annoying to get tuned in this year. See [Dashboard Manufacturing Doc](https://docs.google.com/document/d/1SboHkU5eu9X-XPbC42ve_8zeORpnQzHskEh5Oi-o60I/edit?usp=drive_link)
+
+
+## Electronics Hardware
+
+### Adafruit CAN Pal Transceivers
+
+Definitely had some issues with these over the last two years. Mysterious issues that are hard to pinpoint. Ethan found some with poor soldering jobs on the SMD components, so perhaps their quality control is not too good. Additioanlly, the through hole mounting is extremely hard to replace. Maybe our custom surface mount ones next year may be easier to replace if necessary, or we can find ways to make the larger components modular (like multi-pin ICs)
+
+
+## Brake Light
+
+Our old circular brake light was outdated, so I was looking to upgrade to something more modern. Polaris offers several brake lights, but it does not look like they sell the connectors for them. I (wrongly) assumed it was just a standard 3-pin way connector, but it turned out to be a proprietary connector. So, I ordered the proprietary connectors on Amazon, and then soon discovered that Polaris uses more than one proprietary connector! It appears that SAE does not permit any brake lights with the connectors I ordered, so I modified an existing 3-pin way connector to fit the brake light's notches. Functionally the same, but worth noting this extra step in the assembly process. I have also made 2-3 extra modified connectors as spares or for future years. I still think it is worth sticking with our current 2411450 brake light model. 
+
+
+## Vehicle Assembly
+
+### Grommets in Firewall and Connectors through Firewall
+
+The rulebook states that "select cutouts are allowed for control cables, brake lines, or electrical cables, provided the cutouts have proper grommeting and sealing."
+
+In the 2024-2025 car, we had to pass through a pair of left SIM kill switch wires, two pairs of brake switch wires, 4 wires for PWR/CAN, and four sets of three wires for the two wheel speed and two suspension travel sensors on the rear.
+
+In addition to the sheer volume of electrical going through the firewall, these through-cables should have connectors on them such that the firewall can easily be removed. However, this presents an issue with grommets. While the ruleset does not appear to explicitly state the max allowable gap in the firewall, it can be inferred from this body panel rule: 
+
+"No gaps can exist that are larger than 6.35 mm (0.25 in) and will be checked with a 6.35 mm (0.25 in dowel rod)."
+
+Generally, the grommet hole needed for sufficient clearance of these connectors will leave a hole exceeding 1/4" when the cable is in place.
+
+It was decided that best solution to this is to have a neoprene rubber sheet with cutouts for the wires to pass through. This can be riveted or adhered to the firewall. This setup provides flexibility in the number of connections and size of connections that pass through. With more planning and knowledge of the size of connectors, specially sized grommets like [these](https://www.amazon.com/Grommet-Plastic-Through-Countertop-XIOGZAXI/dp/B0CWY11ZPS?th=1) could be used. 
+
+#### Types of Connectors
+
+Our standard aviation plug connector setup is good for splitting the PWR/CAN connection, but I would advise against using it for anything else as a mixup of connections could be disastrous.
+
+WAGOs are good for the engine kill switches (specifically a pair of the three position ones), and I also ended up using them in the rear for joining the brake switch wiring into one power wire to the brake light. Has the same benefits as an actual connector, just without the soldering
+
+Bullet connnectors are a pain in the ass. Avoid them if possible, but the brake switches do require them.
+
+Waterproof 3 pin automotive connectors were used in the 2024-2025 car to both make connections at the wheel speed and suspension travel sensors, and also to pass those cables through the firewall. Since these two different sensors do use the same connectors here, labeing is important.
+
+### Containment Inside Roll Boundary
+
+The original placement of the battery box on the 2024-2025 vehicle was outside the roll boundary (determined by any line tangent to two points on the chassis--think a bar going from point to point).
+
+### General Wiring Suggestions
+
+#### Always leave some slack in the wires
+
+Whether it is a tied loop or simply an extra wide curve, leave some extra slack in wiring so that it is easy to reroute along a slightly longer path or splice in without making the connection too short. A bit of extra wiring can be neatly tied away, but unfortunately [this tool](https://i.redd.it/agminsuzchs81.jpg) is a wee bit out of our budget if you so happen to forget that extra length.
+
+#### Label Wires
+
+Put wire markers/labels on both ends of a cable specifying where it came from/its destination. Although it helps to differentiate cable based on gauge and color, there will always be some overlap (like power to brake light switches vs main power bus).
+
+
+### Metal 3D printed Suspension Travel Mounts
+
+Untappable. Also can't really put a threaded insert into them. Print in PETG with a lot of perimeters and hope for the best
+
+
