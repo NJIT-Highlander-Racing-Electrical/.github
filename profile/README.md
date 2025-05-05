@@ -89,3 +89,4 @@ This organization contains individual repositories for each subsystem on the car
          * Components can be larger for easier soldering
 * Smaller shock sensors that just mount between chassis and upper control arm
 * Live video feed
+* Go Pro continuous USB-C power source
