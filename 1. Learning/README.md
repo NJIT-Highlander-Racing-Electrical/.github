@@ -6,7 +6,7 @@
 
 ## [1. Getting Started with Arduino IDE](https://github.com/NJIT-Highlander-Racing-Electrical/.github/blob/main/1.%20Learning/1.%20Arduino-IDE.md)
 
-Arduino is a very common open-source electronics platform in the ECE world. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online. You can tell your board what to do by sending a set of instructions to the microcontroller on the board. To do so you use the Arduino programming language and the Arduino Software (IDE).
+Arduino is a very common open-source electronics platform in the ECE world. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or an email received - and turn it into an output - activating a motor, turning on an LED, publishing something online. You can tell your board what to do by sending a set of instructions to the microcontroller on the board. To do so you use the Arduino programming language and the Arduino Software (IDE).
 
 #### *What is an IDE?*
 
