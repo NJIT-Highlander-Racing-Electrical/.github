@@ -1,5 +1,5 @@
 # NJIT-Highlander-Racing-Electrical 
-
+[Project Tracker](https://docs.google.com/spreadsheets/d/1Ss7EEMp9sDVOFn0HUn1fnjAaIJCkXr3bF7ygpn6tOUo/edit?usp=sharing)
 ## A GitHub Organization for NJIT's Highlander Racing Electrical Subteam
 
 This organization contains individual repositories for each subsystem on the car, including:
