@@ -1,5 +1,5 @@
-# NJIT-Highlander-Racing-Electrical 
-[Project Tracker](https://docs.google.com/spreadsheets/d/1Ss7EEMp9sDVOFn0HUn1fnjAaIJCkXr3bF7ygpn6tOUo/edit?usp=sharing)
+# NJIT-Highlander-Racing-Electrical
+
 ## A GitHub Organization for NJIT's Highlander Racing Electrical Subteam
 
 This organization contains individual repositories for each subsystem on the car, including:
@@ -14,36 +14,29 @@ This organization contains individual repositories for each subsystem on the car
 * Enclosures
 * CAN-Bus
 
+## Important Links 
+[Project Tracker](https://docs.google.com/spreadsheets/d/1Ss7EEMp9sDVOFn0HUn1fnjAaIJCkXr3bF7ygpn6tOUo/edit?usp=sharing): This is where you can see a list of ongoing projects, who is working on them, and how far along they are.
 
+[Master Sensor List](https://docs.google.com/document/d/1UM4DpVGZLbGoAGsbBoDNTF38NQ4iRMomod1NifckHPs/edit?usp=sharing): This is a list of all of our current and planned sensors, with some information about what data they can collect.
 
-## Important Links
+[2026 Baja SAE Rules](https://www.bajasae.net/cdsweb/gen/DownloadDocument.aspx?DocumentID=cd82c643-bb41-4c95-8cca-cbb19d8f2d95): Here you can find the complete competition ruleset (we are in the 2027 season, but the new rules have not been released).
 
-[2026 Baja SAE Rules](https://www.bajasae.net/cdsweb/gen/DownloadDocument.aspx?DocumentID=cd82c643-bb41-4c95-8cca-cbb19d8f2d95)
+[Electrical Folder in Google Drive](): Link TBA. This is where CAD models, EDA projects, documents, and other miscellaneous files from our subteam belong.
 
-[Electrical Folder in Google Drive](https://drive.google.com/drive/folders/1Pz5bq8r8b9oh7MFo3oWOcobUKbDVZDIy?usp=drive_link)
-
-[Electrical Inventory](https://docs.google.com/spreadsheets/d/19zXsWbHnRgKuqglurabbrF1yi5oSlVw6kvXuMUWI1O0/edit?usp=drive_link)
-
-[Electrical Photos/Videos](https://drive.google.com/drive/folders/1SR_HuOiAXgWjmbBMsi99OzsaskyCo2m3)
+[Electrical Inventory](): Link TBA. The inventory spreadsheet tracks our current stock of parts. Note that some things may be missing and part counts may not be up to date.
 
 [NJIT Baja KiCad Library](https://github.com/NJIT-Highlander-Racing-Electrical/.github/tree/main/2.%20NJIT-Baja-KiCad-Library)
 
-[Learning Resources](https://github.com/NJIT-Highlander-Racing-Electrical/.github/tree/main/1.%20Learning)
+[Learning Resources](https://github.com/NJIT-Highlander-Racing-Electrical/.github/tree/main/1.%20Learning): This will probably be moved over to the Google Drive folder.
 
-## 2025-2026 Design Goals
-* Complete KiCad library for commonly used hardware - CAN transceievers, USB-C ESP32 boards, pads for aviation plugs, etc
-    * Includes symbols, footprints, and 3D models
-* Move towards SMD boards
-     * Custom CAN transceiver footprints for use on boards
-     * Integrate 2024-2025 voltage regulator board on each subsystem's PCB
-         * Components can be larger for easier soldering
-* Full PlatformIO/GitHub workflow integration
-* All data outputs from subsystems are shared with each other via CAN-Bus
-* Any data on the CAN-Bus is saved to a dedicated DAQ logger
-* Strong design process documentation (photos, schematics, research, etc)
+## 2026-2027 Design Goals
+* Work more closely with other subteams to focus on collecting the most useful data and to integrate out systems better with the car
+* Implement better design processes, including parts and schematic standardization   
+* Strong design process documentation and organization of files (what goes on GitHub versus Google Drive)
+* Adherence to published engineering standards (for wiring harness construction, waterproofing, etc.)
+* Rigorous testing of all projects, recording solutions for any problems encountered
 
 ## Electrical Design Timeline
-
 ### September
 * Assign existing projects and research based on interest and experience
 * Decide on potential new projects
@@ -84,15 +77,3 @@ This organization contains individual repositories for each subsystem on the car
 * Season Wrap-up
 * Make sure all documentation is posted to the GitHub
 * Mentioned what worked well, what didn't, and what we can improve on for next year
-
-
-## 2025-2026 Design Goals 
-* Complete KiCad library for commonly used hardware - CAN transceievers, USB-C ESP32 boards, pads for aviation plugs, etc
-    * Includes symbols, footprints, and 3D models
-* Move towards SMD boards
-     * Custom CAN transceiver footprints for use on boards
-     * Integrate 2024-2025 voltage regulator board on each subsystem's PCB
-         * Components can be larger for easier soldering
-* Smaller shock sensors that just mount between chassis and upper control arm
-* Live video feed
-* Go Pro continuous USB-C power source
