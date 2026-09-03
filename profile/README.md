@@ -1,4 +1,5 @@
 # NJIT-Highlander-Racing-Electrical
+Welcome to NJIT's Baja SAE GitHub page. We will be competing in the 2027 season at Marana, AZ (April 29 - May 2) and Williamsport, PA (May 20 - May 23). The primary purpose of this page is to store code and our EDA symbols library. Please keep in mind that at competitions, we will likely not have easy access to onsite wifi, and may have to download these repositories over mobile data.
 
 ## A GitHub Organization for NJIT's Highlander Racing Electrical Subteam
 
