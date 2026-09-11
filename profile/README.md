@@ -20,7 +20,7 @@ This organization contains individual repositories for each subsystem on the car
 
 [Master Sensor List](https://docs.google.com/document/d/1UM4DpVGZLbGoAGsbBoDNTF38NQ4iRMomod1NifckHPs/edit?usp=sharing): This is a list of all of our current and planned sensors, with some information about what data they can collect.
 
-[2026 Baja SAE Rules](https://www.bajasae.net/cdsweb/gen/DownloadDocument.aspx?DocumentID=cd82c643-bb41-4c95-8cca-cbb19d8f2d95): Here you can find the complete competition ruleset (we are in the 2027 season, but the new rules have not been released).
+[2027 (rev. A) Baja SAE Rules](https://www.bajasae.net/cdsweb/gen/DownloadDocument.aspx?DocumentID=7a005d0c-056d-4ab3-8918-94874ad8d719): Here you can find the complete competition ruleset.
 
 [Electrical Folder in Google Drive](): Link TBA. This is where CAD models, EDA projects, documents, and other miscellaneous files from our subteam belong.
 
