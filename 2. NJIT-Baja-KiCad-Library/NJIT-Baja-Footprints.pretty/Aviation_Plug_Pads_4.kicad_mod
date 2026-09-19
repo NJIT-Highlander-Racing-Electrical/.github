@@ -1,13 +1,13 @@
-(footprint "Aviation Plug Pads"
-	(version 20240108)
+(footprint "Aviation_Plug_Pads_4"
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(property "Reference" "Aviation Plug"
-		(at -3.556 5.334 -90)
+		(at -3.556 5.334 270)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "6d3096ba-3d93-4b03-9a99-f7ccbefa1706")
+		(uuid "7cee5cb6-80da-4fcb-8a00-5487f31307c2")
 		(effects
 			(font
 				(size 1 1)
@@ -15,24 +15,11 @@
 			)
 		)
 	)
-	(property "Value" "Aviation Plug Pads"
+	(property "Value" "Aviation_Plug_Pads_4"
 		(at -1.778 -5.334 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "942e541c-3c6b-4690-b350-0db797158af8")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "6f128cb7-5fe6-43fd-b874-55d530bc68e6")
+		(uuid "10a156e4-da9e-40c1-bc5a-881129fcbacd")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "f2453c15-fcbb-4631-84e7-f9cb69f55280")
+		(uuid "0df79d42-4bd3-4eee-8f15-8675cb14548e")
 		(effects
 			(font
 				(size 1 1)
@@ -58,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "6669ff17-f274-40b7-a124-78b80affc7e8")
+		(uuid "62d74dab-590e-4f08-a24b-c1a780477a6d")
 		(effects
 			(font
 				(size 1 1)
@@ -67,11 +54,12 @@
 		)
 	)
 	(attr smd)
-	(fp_text user "12V"
-		(at 2.933663 0.953679 0)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_text user "CANH"
+		(at 2.834313 7.510798 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "1ff17b82-7ea4-4d9d-9619-f7d615cd9fb9")
+		(uuid "1349a161-0630-49b4-ace9-25f71c8197cd")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -85,7 +73,21 @@
 		(at 2.908826 10.839032 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "738ce0e9-eaf0-4dc8-b2f4-cf1fc28f9b02")
+		(uuid "a8caedb0-cd37-40a1-b8da-45366e87111c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.25)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "12V"
+		(at 2.933663 0.953679 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1ad0e8df-d382-4eab-9413-92d57c4e7fcf")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -99,21 +101,7 @@
 		(at 2.933663 4.257076 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "8b194008-8f09-4fb6-8b2b-0863cc881519")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.25)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(fp_text user "CANH"
-		(at 2.834313 7.510798 0)
-		(unlocked yes)
-		(layer "F.SilkS")
-		(uuid "dfabb3a7-faac-4b20-8a73-e397e77a9475")
+		(uuid "9930ba63-0aa5-4c29-80ad-9c522c672952")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -127,7 +115,7 @@
 		(at -1.778 -3.302 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "a2389be0-7769-4c56-87c7-0a1bc3293f46")
+		(uuid "8eb72273-4b9a-4cd8-b9e4-1e64c5103ce2")
 		(effects
 			(font
 				(size 1 1)
@@ -138,33 +126,34 @@
 	(pad "1" smd roundrect
 		(at 0 0)
 		(size 5 2.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
-		(uuid "25a47f85-2be4-4b82-8e87-416f2b238347")
+		(uuid "67c3949b-bad3-4f36-87b3-17117f5a035c")
 	)
 	(pad "2" smd roundrect
 		(at 0 3.302)
 		(size 5 2.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
-		(uuid "fc78e290-8aab-4f57-9e26-fc9184f0c595")
+		(uuid "3da13205-a4c8-474f-a376-f77cd6b54bcc")
 	)
 	(pad "3" smd roundrect
 		(at 0 6.604)
 		(size 5 2.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
-		(uuid "4d4b7164-980b-42b2-90f7-4b1150e4bcda")
+		(uuid "0f15a193-bae9-486f-9ce5-f0638cac20b5")
 	)
 	(pad "4" smd roundrect
 		(at 0 9.906)
 		(size 5 2.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
-		(uuid "cfd9f56f-aa7d-493d-954d-44c4c6b75c6c")
+		(uuid "536aafab-a8d4-4616-864d-989cd0da657d")
 	)
+	(embedded_fonts no)
 )
